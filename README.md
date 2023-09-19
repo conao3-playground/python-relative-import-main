@@ -1,0 +1,1 @@
+# python-relative-import-main
